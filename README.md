@@ -29,7 +29,7 @@ Entusiasta de novas tecnologias, buscando e criando projetos inéditos afim de t
 #### Últimos projetos
 - [Portfólio Profissional](https://portfolio-iota-ruddy-28.vercel.app/)
 - [Web Site: Teste de Inglês](https://testedeingles.app.br)
-- [Custo de Recarga - Carros Elétricos](https://andersonapinto.github.io/ConsumoCarroEletrico/)
+- [Fialho Car APP](https://github.com/AndersonAPinto/react_native---FialhoCarApp)
 - [Site ecommerce: GADJ Ferramentas](https://gadjferramentas.com.br)
 - [SiteTemperamentos: Os 4 Temperamentos](angular-quiz-web.vercel.app)
 
