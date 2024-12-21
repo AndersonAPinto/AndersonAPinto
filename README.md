@@ -27,11 +27,11 @@
 Entusiasta de novas tecnologias, buscando e criando projetos inéditos afim de transformar e melhorar a minha e outras vidas.
 
 #### Últimos projetos
-- [Portfólio Profissional](https://andersonapinto.github.io)
+- [Portfólio Profissional](https://andersonapinto.github.io/portfoliodev)
 - [Web Site: Teste de Inglês](https://testedeingles.app.br)
-- [Fialho Car APP](https://github.com/AndersonAPinto/react_native---FialhoCarApp)
-- [Site ecommerce: GADJ Ferramentas](https://gadjferramentas.com.br)
+- [WebSite: DTCbr](https://dtcbr.com.br)
 - [SiteTemperamentos: Os 4 Temperamentos](angular-quiz-web.vercel.app)
+E outros ...
 
 
 
